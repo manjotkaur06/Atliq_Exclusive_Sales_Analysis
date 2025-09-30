@@ -1,0 +1,6 @@
+These are the dependencies used in the project :
+pandas
+numpy
+matplotlib
+mysql-connector-python
+jupyter
